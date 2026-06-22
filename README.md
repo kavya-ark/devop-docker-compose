@@ -1,5 +1,5 @@
 # devop-docker-compose
-# Docker Jenkins CI/CD Pipeline (GitHub SSH Integration)
+
 
  Overview
 This project demonstrates a real-world CI/CD pipeline using Jenkins inside a Docker container with GitHub SSH integration.  
